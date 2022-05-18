@@ -1,0 +1,21 @@
+Student Name                  	Test Score Grade
+Donald, Duckey                        85     B
+Gooty, Goof                           89     B
+Balto, Brave                          93     A
+Snithn, Snow                          93     A
+Wonderful, AAlice                     89     B
+Akthar, Samina                        85     B
+Green, Simba                          95     A
+Egger, Donald                         90     A
+Deer, Brown                           86     B
+Jackson, Johny                        95     A
+Gupta, Greg                           75     C
+Happy, Samuel                         80     B
+Arora, Danny                          80     B
+June, Sleepy                          70     C
+Cheng, Amy                            83     B
+Malik, Shelly                         95     A
+Tomek, Chelsea                        95     A
+Neilds, Allison                       95     A
+Norman, Lance                         88     B
+
